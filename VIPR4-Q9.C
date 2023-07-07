@@ -2,7 +2,7 @@
    output
     *       * *       *
      *     *   *     *
-      *	  *     *   *
+      *   *     *   *
        * *       * *
 */
 #include<stdio.h>
